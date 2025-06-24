@@ -1,4 +1,5 @@
-# pizza_ordering
+# pizza_ordering 
+this is the sample website for pizza ordering system for crust pizza using php, html, css, js, sql
 Project: Database-Driven Website Development
 Business Case: Crust Online Pizza Ordering System
 Date: 05 June 2025
