@@ -3,7 +3,6 @@ this is the sample website for pizza ordering system for crust pizza using php, 
 Project: Database-Driven Website Development
 Business Case: Crust Online Pizza Ordering System
 Date: 05 June 2025
-Course: Developing Web Information System (DWIN309)
 Developed by: Sshiva Bhandari, Prajwal Rana, Sandip Limbu
 
 Local Deployment Instructions
