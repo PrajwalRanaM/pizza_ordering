@@ -24,12 +24,17 @@ v.	Import crust_pizza_schema.sql into system
 vi.	Import seed.sql to populate database
 
 vii.	Access the site: http://localhost/crust_pizza 
-Login credentials:
-Email/passoword
+
+Login credentials:Email/passoword
+
 Admin: admin@crustpizza.com.au/crust
+
 Kitchen staff: kitchen@crustpizza.com.au/crust
+
 Delivery staff: delivery@crustpizza.com.au/crust
+
 Counter staff: counter@crustpizza.com.au/crust
+
 Customer: customer@crustpizza.com.au/crust
 
 thank you
